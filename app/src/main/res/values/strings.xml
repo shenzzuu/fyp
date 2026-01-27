@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlanPrep</string>
+    <string name="home">Home</string>
+    <string name="plan">Plan</string>
+    <string name="recipes">Recipes</string>
+    <string name="profile">Profile</string>
+    <string name="content_desc_dish_image">Image of a recommended dish</string>
+    <string name="default_web_client_id">492882408355-qt1ioqbdbdv7qelrd3o7597blqs8gf1p.apps.googleusercontent.com</string>
+</resources>

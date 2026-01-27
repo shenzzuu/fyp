@@ -1,0 +1,2860 @@
+{
+  "breakfast": {
+    "Nasi Lemak": {
+      "ingredients": [
+        "Beras wangi",
+        "Santan pekat",
+        "Daun pandan",
+        "Garam halus",
+        "Ikan bilis goreng rangup",
+        "Kacang tanah goreng",
+        "Telur rebus",
+        "Timun",
+        "Cili kering",
+        "Bawang merah",
+        "Bawang putih",
+        "Belacan",
+        "Gula melaka",
+        "Asam jawa",
+        "Minyak masak",
+        "Garam untuk sambal"
+      ],
+      "allergies": [
+        "Fish",
+        "Peanuts",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Roti Canai": {
+      "ingredients": [
+        "Tepung gandum",
+        "Garam halus",
+        "Gula",
+        "Air",
+        "Minyak sapi / ghee",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Roti Telur": {
+      "ingredients": [
+        "Doh roti canai",
+        "Telur",
+        "Bawang",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ]
+    },
+    "Telur Separuh Masak": {
+      "ingredients": [
+        "Telur ayam",
+        "Kicap masin",
+        "Lada putih"
+      ],
+      "allergies": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Kaya Toast": {
+      "ingredients": [
+        "Roti putih",
+        "Mentega",
+        "Kaya (santan, gula, telur, daun pandan)"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ]
+    },
+    "Mee Goreng Mamak": {
+      "ingredients": [
+        "Mee kuning",
+        "Tauhu goreng",
+        "Taugeh",
+        "Kubis",
+        "Tomato",
+        "Cili kisar",
+        "Kicap manis",
+        "Kicap masin",
+        "Sos tiram",
+        "Telur",
+        "Kentang rebus",
+        "Bawang putih",
+        "Bawang merah",
+        "Daun bawang",
+        "Limau nipis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ]
+    },
+    "Nasi Goreng Kampung": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Ikan bilis",
+        "Telur",
+        "Cili padi",
+        "Bawang merah",
+        "Bawang putih",
+        "Sayur kangkung atau sawi",
+        "Kicap",
+        "Garam",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Lontong": {
+      "ingredients": [
+        "Nasi impit",
+        "Kobis",
+        "Lobak merah",
+        "Kacang panjang",
+        "Tempe",
+        "Tauhu",
+        "Santan",
+        "Serbuk kunyit",
+        "Udang kering",
+        "Bawang merah",
+        "Bawang putih",
+        "Serai"
+      ],
+      "allergies": [
+        "Soy",
+        "Shellfish"
+      ]
+    },
+    "Roti Bakar": {
+      "ingredients": [
+        "Roti",
+        "Mentega",
+        "Kaya"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ]
+    },
+    "Nasi Tumpang": {
+      "ingredients": [
+        "Nasi himpit (Compressed rice)",
+        "Gulai ikan/udang (Fish/Prawn curry)",
+        "Serunding (Meat/Fish floss)",
+        "Telur dadar (Omelette)",
+        "Sambal",
+        "Timun"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Shellfish",
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Nasi Dagang": {
+      "ingredients": [
+        "Beras dagang (Beras biasa & pulut)",
+        "Santan",
+        "Halba (Fenugreek)",
+        "Ikan Tongkol (Tuna)",
+        "Rempah gulai",
+        "Acar timun",
+        "Telur rebus"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg"
+      ]
+    },
+    "Nasi Kerabu": {
+      "ingredients": [
+        "Nasi (Bunga Telang)",
+        "Ulam-ulaman (Kacang panjang, taugeh, bunga kantan)",
+        "Budu (Sos ikan peram)",
+        "Kelapa parut goreng (Sambal kelapa)",
+        "Isi ikan (tumbuk)",
+        "Keropok ikan",
+        "Telur masin"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Gluten"
+      ]
+    },
+    "Kuih Lapis": {
+      "ingredients": [
+        "Tepung beras (Rice flour)",
+        "Tepung sagu/ubi (Tapioca flour)",
+        "Santan",
+        "Gula pasir",
+        "Daun pandan",
+        "Pewarna merah/hijau"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Pulut Panggang": {
+      "ingredients": [
+        "Beras pulut (Glutinous rice)",
+        "Santan",
+        "Udang kering (Dried shrimp)",
+        "Kelapa parut",
+        "Cili",
+        "Serai",
+        "Daun pisang"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Karipap": {
+      "ingredients": [
+        "Tepung gandum",
+        "Kentang",
+        "Rempah kari",
+        "Ayam atau Daging",
+        "Bawang",
+        "Marjerin"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Apam Balik": {
+      "ingredients": [
+        "Tepung",
+        "Telur",
+        "Gula",
+        "Kacang tanah",
+        "Jagung manis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Peanuts"
+      ]
+    },
+    "Thosai": {
+      "ingredients": [
+        "Beras (fermentasi)",
+        "Kacang dhal (urad dal)",
+        "Halba",
+        "Chutney kelapa",
+        "Kuah dhal"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)",
+        "Mustard"
+      ]
+    },
+    "Chapati": {
+      "ingredients": [
+        "Tepung Atta (Whole wheat flour)",
+        "Air",
+        "Garam",
+        "Minyak",
+        "Kuah dhal"
+      ],
+      "allergies": [
+        "Gluten",
+        "Mustard"
+      ]
+    },
+    "Murtabak": {
+      "ingredients": [
+        "Doh roti canai",
+        "Daging cincang",
+        "Bawang",
+        "Telur",
+        "Rempah kari"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Bihun Goreng": {
+      "ingredients": [
+        "Bihun",
+        "Kicap manis",
+        "Cili kisar",
+        "Bawang merah",
+        "Bawang putih",
+        "Sawi",
+        "Taugeh",
+        "Telur",
+        "Udang atau ayam"
+      ],
+      "allergies": [
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ]
+    },
+    "Mee Rebus": {
+      "ingredients": [
+        "Mee kuning",
+        "Ubi keledek",
+        "Udang kering",
+        "Kacang tanah",
+        "Taugeh",
+        "Tauhu goreng",
+        "Telur rebus",
+        "Cili hijau",
+        "Limau kasturi"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish",
+        "Peanuts",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Roti Jala": {
+      "ingredients": [
+        "Tepung gandum",
+        "Telur",
+        "Santan",
+        "Serbuk kunyit",
+        "Garam",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Soto Ayam": {
+      "ingredients": [
+        "Nasi impit",
+        "Sup ayam berempah",
+        "Ayam carik",
+        "Soun (glass noodles)",
+        "Kacang tanah goreng",
+        "Pegedil (kentang)",
+        "Daun sup",
+        "Sambal kicap"
+      ],
+      "allergies": [
+        "Peanuts",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Laksam": {
+      "ingredients": [
+        "Tepung beras",
+        "Ikan kembung atau selayang",
+        "Santan",
+        "Asam keping",
+        "Lada hitam",
+        "Ulam-ulaman (kacang panjang, timun, taugeh)",
+        "Sambal belacan"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Bubur Ayam": {
+      "ingredients": [
+        "Beras",
+        "Air rebusan ayam",
+        "Ayam carik",
+        "Halia",
+        "Minyak bijan",
+        "Kicap masin",
+        "Daun bawang",
+        "Bawang goreng"
+      ],
+      "allergies": [
+        "Soy",
+        "Sesame"
+      ]
+    },
+    "Chee Cheong Fun": {
+      "ingredients": [
+        "Tepung beras",
+        "Tepung jagung",
+        "Air",
+        "Udang kering (pilihan)",
+        "Sos manis (tim cheong)",
+        "Biji bijan",
+        "Minyak bawang"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Char Kway Teow": {
+      "ingredients": [
+        "Kuey teow",
+        "Kerang",
+        "Udang",
+        "Telur",
+        "Taugeh",
+        "Kucai",
+        "Kicap pekat",
+        "Cili kisar",
+        "Minyak (kadang-kadang lemak babi)"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Wantan Mee": {
+      "ingredients": [
+        "Mee telur",
+        "Wantan (isi ayam/udang)",
+        "Sayur sawi",
+        "Kicap pekat",
+        "Minyak bijan",
+        "Sos tiram",
+        "Ayam char siu (atau ayam panggang)"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Sesame",
+        "Shellfish"
+      ]
+    },
+    "Dim Sum": {
+      "ingredients": [
+        "Tepung gandum/beras",
+        "Udang",
+        "Ayam",
+        "Daging",
+        "Sayuran",
+        "Minyak bijan"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ]
+    },
+    "Mee Kari": {
+      "ingredients": [
+        "Mee kuning",
+        "Santan",
+        "Rempah kari",
+        "Kerang",
+        "Tauhu pok",
+        "Fishball/Fishcake",
+        "Kacang panjang",
+        "Sambal"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Fish"
+      ]
+    },
+    "Cakoi": {
+      "ingredients": [
+        "Tepung gandum",
+        "Yis",
+        "Garam",
+        "Gula",
+        "Air",
+        "Soda bikarbonat",
+        "Minyak untuk menggoreng"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Idli": {
+      "ingredients": [
+        "Beras",
+        "Kacang urad (ulunthu)",
+        "Garam",
+        "Air (diperam)",
+        "Chutney kelapa"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Puri": {
+      "ingredients": [
+        "Tepung gandum (atta)",
+        "Garam",
+        "Air",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Appam": {
+      "ingredients": [
+        "Tepung beras",
+        "Santan",
+        "Yis",
+        "Gula",
+        "Nasi sejuk (untuk penapaian)"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Roti Tisu": {
+      "ingredients": [
+        "Doh roti canai",
+        "Gula pasir (banyak)",
+        "Susu pekat manis",
+        "Margarin/Planta"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Roti Naan": {
+      "ingredients": [
+        "Tepung gandum",
+        "Yis",
+        "Yogurt",
+        "Garam",
+        "Gula",
+        "Minyak masak/Ghee"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Laksa Sarawak": {
+      "ingredients": [
+        "Bihun",
+        "Pes laksa Sarawak",
+        "Santan",
+        "Isi ayam",
+        "Udang",
+        "Taugeh",
+        "Telur dadar hiris",
+        "Limau kasturi"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Kolo Mee": {
+      "ingredients": [
+        "Mee kolok (mee telur kering)",
+        "Daging cincang (ayam/daging)",
+        "Bawang goreng",
+        "Minyak bawang",
+        "Kicap putih",
+        "Cuka",
+        "Sawi"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Mee Siam": {
+      "ingredients": [
+        "Bihun",
+        "Cili kering",
+        "Bawang merah",
+        "Udang kering",
+        "Taucu",
+        "Asam jawa",
+        "Gula",
+        "Telur rebus",
+        "Limau kasturi"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Maggi Goreng": {
+      "ingredients": [
+        "Mee segera (Maggi)",
+        "Perencah kari",
+        "Telur",
+        "Sawi",
+        "Bawang merah",
+        "Cili padi",
+        "Tauhu",
+        "Limau nipis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "MSG"
+      ]
+    },
+    "Roti Sardin": {
+      "ingredients": [
+        "Doh roti canai",
+        "Ikan sardin tin",
+        "Telur",
+        "Bawang besar",
+        "Cili potong",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten",
+        "Fish",
+        "Egg"
+      ]
+    },
+    "Roti Bom": {
+      "ingredients": [
+        "Doh roti canai (tebal)",
+        "Gula pasir",
+        "Marjerin/Planta",
+        "Susu pekat manis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Kuey Teow Thng": {
+      "ingredients": [
+        "Kuey teow (halus)",
+        "Sup ayam/tulang jernih",
+        "Bebola ikan",
+        "Kek ikan (fishcake)",
+        "Daging cincang (ayam/babi)",
+        "Minyak bawang putih",
+        "Daun bawang",
+        "Sawi"
+      ],
+      "allergies": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Pulut Kuning": {
+      "ingredients": [
+        "Beras pulut",
+        "Santan",
+        "Kunyit",
+        "Asam keping",
+        "Daging (untuk rendang)",
+        "Kerisik",
+        "Rempah rendang"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Roti Arab": {
+      "ingredients": [
+        "Tepung gandum",
+        "Yis",
+        "Gula",
+        "Air suam",
+        "Bijan (sesame seeds)",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten",
+        "Sesame"
+      ]
+    },
+    "Pan Mee": {
+      "ingredients": [
+        "Tepung gandum",
+        "Ikan bilis goreng",
+        "Cendawan shiitake",
+        "Sayur manis (pucuk manis)",
+        "Daging cincang (ayam/babi)",
+        "Telur",
+        "Sambal belacan"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Bak Kut Teh": {
+      "ingredients": [
+        "Rusuk babi/ayam",
+        "Herba Cina (Dang Gui, Kayu Manis, Bunga Lawang)",
+        "Bawang putih (sekebun)",
+        "Kicap pekat",
+        "Tauhu pok",
+        "Cendawan",
+        "Selada (Iceberg lettuce)"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Asam Laksa": {
+      "ingredients": [
+        "Laksa (mee beras tebal)",
+        "Ikan kembung (isi hancur)",
+        "Asam keping",
+        "Bunga kantan",
+        "Daun kesum",
+        "Nanas",
+        "Timun",
+        "Otak udang (Petis)"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Yong Tau Foo": {
+      "ingredients": [
+        "Tauhu",
+        "Pes ikan (Fish paste)",
+        "Terung",
+        "Bendi",
+        "Cili merah",
+        "Peria",
+        "Sos manis",
+        "Sos cili"
+      ],
+      "allergies": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Fish Ball Noodles": {
+      "ingredients": [
+        "Mee kuning/Kuey Teow",
+        "Bebola ikan",
+        "Kek ikan",
+        "Taugeh",
+        "Daun bawang",
+        "Bawang goreng",
+        "Sup jernih"
+      ],
+      "allergies": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ]
+    }
+  },
+  "lunch": {
+    "Nasi Campur": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam goreng",
+        "Ikan goreng",
+        "Daging masak kicap",
+        "Sayur campur",
+        "Sambal belacan",
+        "Kicap"
+      ],
+      "allergies": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ]
+    },
+    "Ayam Goreng Berempah": {
+      "ingredients": [
+        "Ayam",
+        "Kunyit hidup",
+        "Serai",
+        "Bawang putih",
+        "Bawang merah",
+        "Daun kari",
+        "Jintan manis",
+        "Ketumbar",
+        "Garam",
+        "Minyak masak"
+      ],
+      "allergies": []
+    },
+    "Ikan Bakar": {
+      "ingredients": [
+        "Ikan kembung / pari / siakap",
+        "Cili kisar",
+        "Halia",
+        "Kunyit",
+        "Garam",
+        "Air asam",
+        "Daun pisang"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Nasi Ayam": {
+      "ingredients": [
+        "Ayam",
+        "Halia",
+        "Bawang putih",
+        "Kicap",
+        "Sos cili",
+        "Nasi ayam (beras, sup ayam, halia)",
+        "Timun"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Nasi Goreng Pattaya": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam",
+        "Telur",
+        "Lobak merah",
+        "Kubis",
+        "Kicap",
+        "Sos tomato",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Mee Bandung Muar": {
+      "ingredients": [
+        "Mee kuning",
+        "Udang",
+        "Daging",
+        "Telur",
+        "Sos tomato",
+        "Cili kisar",
+        "Bawang besar",
+        "Kobis",
+        "Daun sup"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ]
+    },
+    "Nasi Paprik": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam",
+        "Cili kisar",
+        "Sos tiram",
+        "Sos ikan",
+        "Sayur campur",
+        "Daun limau"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ]
+    },
+    "Char Kuey Teow": {
+      "ingredients": [
+        "Kuey teow",
+        "Udang",
+        "Kerang",
+        "Taugeh",
+        "Daun kucai",
+        "Telur",
+        "Kicap pekat",
+        "Cili boh"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Mee Rebus": {
+      "ingredients": [
+        "Mee kuning",
+        "Ubi keledek",
+        "Kacang tanah",
+        "Cili kisar",
+        "Bawang besar",
+        "Telur",
+        "Tauhu",
+        "Taugeh"
+      ],
+      "allergies": [
+        "Gluten",
+        "Peanuts",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Laksa Johor": {
+      "ingredients": [
+        "Spageti",
+        "Ikan tenggiri",
+        "Santan",
+        "Rempah laksa",
+        "Serai",
+        "Bunga kantan",
+        "Timun",
+        "Daun kesum"
+      ],
+      "allergies": [
+        "Gluten",
+        "Fish"
+      ]
+    },
+    "Daging Masak Hitam": {
+      "ingredients": [
+        "Daging",
+        "Kicap manis",
+        "Bawang merah",
+        "Bawang putih",
+        "Halia",
+        "Serai",
+        "Gula"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Kari Ayam": {
+      "ingredients": [
+        "Ayam",
+        "Serbuk kari",
+        "Santan",
+        "Kentang",
+        "Bawang merah",
+        "Bawang putih"
+      ],
+      "allergies": []
+    },
+    "Nasi Kandar": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam goreng",
+        "Kari ikan",
+        "Kari daging",
+        "Bendi",
+        "Papadom"
+      ],
+      "allergies": [
+        "Fish",
+        "Gluten"
+      ]
+    },
+    "Asam Pedas": {
+      "ingredients": [
+        "Ikan pari / merah",
+        "Asam jawa",
+        "Cili kisar",
+        "Daun kesum",
+        "Bunga kantan",
+        "Kunyit",
+        "Okra"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Mee Kari": {
+      "ingredients": [
+        "Mee kuning",
+        "Ayam",
+        "Kuah kari",
+        "Tauhu",
+        "Taugeh",
+        "Daun sup"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy"
+      ]
+    },
+    "Sup Tulang": {
+      "ingredients": [
+        "Tulang lembu",
+        "Rempah sup",
+        "Halia",
+        "Bawang besar",
+        "Kentang",
+        "Lobak"
+      ],
+      "allergies": []
+    },
+    "Ikan Masak Lemak Cili Api": {
+      "ingredients": [
+        "Ikan",
+        "Cili padi",
+        "Santan",
+        "Kunyit hidup",
+        "Daun kunyit"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Kangkung Belacan": {
+      "ingredients": [
+        "Kangkung",
+        "Belacan",
+        "Cili merah",
+        "Bawang putih",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Sotong Goreng Tepung": {
+      "ingredients": [
+        "Sotong",
+        "Tepung gandum",
+        "Garam",
+        "Lada",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten"
+      ]
+    },
+    "Nasi Minyak": {
+      "ingredients": [
+        "Beras basmati",
+        "Ghee",
+        "Bawang goreng",
+        "Rempah biryani",
+        "Kismis",
+        "Daun pandan"
+      ],
+      "allergies": [
+        "Dairy"
+      ]
+    },
+    "Nasi Kukus Ayam Berempah": {
+      "ingredients": [
+        "Beras (dikukus)",
+        "Ayam goreng berempah",
+        "Kuah gulai kerutuk/kari",
+        "Sambal belacan",
+        "Timun",
+        "Nanas"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish"
+      ]
+    },
+    "Nasi Tomato": {
+      "ingredients": [
+        "Beras basmati",
+        "Sos tomato",
+        "Susu cair",
+        "Rempah tumis",
+        "Ayam masak merah",
+        "Acar jelatah (timun & nenas)",
+        "Ghee"
+      ],
+      "allergies": [
+        "Dairy",
+        "Nuts"
+      ]
+    },
+    "Nasi Biryani": {
+      "ingredients": [
+        "Beras basmati",
+        "Rempah biryani",
+        "Kambing/Ayam",
+        "Ghee",
+        "Yogurt",
+        "Kismis",
+        "Kacang gajus",
+        "Telur rebus"
+      ],
+      "allergies": [
+        "Dairy",
+        "Nuts",
+        "Egg"
+      ]
+    },
+    "Banana Leaf Rice": {
+      "ingredients": [
+        "Nasi putih",
+        "Kari ayam/ikan/kambing",
+        "Sayur (kubis, peria goreng, buncis)",
+        "Papadom",
+        "Rasam",
+        "Yogurt"
+      ],
+      "allergies": [
+        "Dairy",
+        "Gluten"
+      ]
+    },
+    "Nasi Ulam": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Ulam-ulaman (daun kaduk, pegaga, selom, kesum)",
+        "Kerisik",
+        "Ikan masin/tenggiri goreng (hancur)",
+        "Bawang merah",
+        "Cili padi"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Nasi Goreng USA": {
+      "ingredients": [
+        "Nasi goreng (cili kering)",
+        "Daging masak merah",
+        "Telur mata",
+        "Sos tomato",
+        "Sos cili",
+        "Timun",
+        "Salad"
+      ],
+      "allergies": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Nasi Goreng Cina": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Telur",
+        "Sayur campur (jagung, kacang pis, lobak)",
+        "Ayam/Udang",
+        "Minyak bijan",
+        "Lada putih",
+        "Garam"
+      ],
+      "allergies": [
+        "Egg",
+        "Shellfish",
+        "Sesame"
+      ]
+    },
+    "Nasi Ambeng": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam masak kicap",
+        "Serunding kelapa",
+        "Mee goreng",
+        "Ikan masin",
+        "Tempe goreng",
+        "Sambal goreng jawa"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ]
+    },
+    "Nasi Daging Utara": {
+      "ingredients": [
+        "Beras (dimasak dengan air rebusan daging)",
+        "Daging rebus",
+        "Air asam (kerisik, cili, tomato)",
+        "Rempah kurma/sup"
+      ],
+      "allergies": []
+    },
+    "Nasi Goreng Ikan Masin": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Ikan masin (kurau/tenggiri)",
+        "Telur",
+        "Kailan",
+        "Cili padi",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Hokkien Mee": {
+      "ingredients": [
+        "Mee kuning tebal",
+        "Kicap pekat (dark soy sauce)",
+        "Lemak babi (pork lard) - atau minyak ayam",
+        "Udang",
+        "Sotong",
+        "Kobis",
+        "Sawi"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ]
+    },
+    "Penang Prawn Mee": {
+      "ingredients": [
+        "Mee kuning/bihun",
+        "Kuah udang (stok udang pedas)",
+        "Udang rebus",
+        "Kangkung",
+        "Taugeh",
+        "Telur rebus",
+        "Bawang goreng"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ]
+    },
+    "Wat Tan Hor": {
+      "ingredients": [
+        "Kuey teow (digoreng hangus)",
+        "Kuah telur (sos tiram, kanji jagung, telur)",
+        "Udang",
+        "Sotong",
+        "Sawi",
+        "Halia"
+      ],
+      "allergies": [
+        "Egg",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Sizzling Yee Mee": {
+      "ingredients": [
+        "Yee Mee (mee kering)",
+        "Kuah kicap pekat cendawan",
+        "Ayam",
+        "Cendawan shiitake",
+        "Telur",
+        "Sawi"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Claypot Chicken Rice": {
+      "ingredients": [
+        "Beras",
+        "Ayam perap (kicap, minyak bijan, halia)",
+        "Cendawan shiitake",
+        "Ikan masin",
+        "Sosej Cina (Lap Cheong) - pilihan",
+        "Daun bawang"
+      ],
+      "allergies": [
+        "Soy",
+        "Sesame",
+        "Fish",
+        "Gluten"
+      ]
+    },
+    "Mee Jawa": {
+      "ingredients": [
+        "Mee kuning",
+        "Kuah keledek & tomato",
+        "Tauhu goreng",
+        "Telur rebus",
+        "Cucur udang",
+        "Cili hijau",
+        "Limau nipis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Mee Hailam": {
+      "ingredients": [
+        "Mee kuning",
+        "Kicap pekat",
+        "Kicap cair",
+        "Daging/Ayam",
+        "Udang",
+        "Sawi",
+        "Limau kasturi"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ]
+    },
+    "Mee Goreng Basah": {
+      "ingredients": [
+        "Mee kuning",
+        "Sos cili",
+        "Sos tomato",
+        "Kicap manis",
+        "Sawi",
+        "Taugeh",
+        "Telur",
+        "Ayam/Daging"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Ikan Patin Tempoyak": {
+      "ingredients": [
+        "Ikan Patin",
+        "Tempoyak (durian peram)",
+        "Cili padi",
+        "Kunyit hidup",
+        "Daun kesum",
+        "Timun tua"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Siakap Tiga Rasa": {
+      "ingredients": [
+        "Ikan Siakap (goreng tepung)",
+        "Sos cili",
+        "Sos tiram",
+        "Nanas",
+        "Timun",
+        "Tomato",
+        "Bawang besar",
+        "Cili padi"
+      ],
+      "allergies": [
+        "Fish",
+        "Gluten",
+        "Shellfish"
+      ]
+    },
+    "Sup Ekor": {
+      "ingredients": [
+        "Ekor lembu",
+        "Rempah sup bunjut",
+        "Ubi kentang",
+        "Lobak merah",
+        "Saderi",
+        "Bawang goreng",
+        "Limau nipis"
+      ],
+      "allergies": []
+    },
+    "Telur Bungkus": {
+      "ingredients": [
+        "Telur dadar (nipis)",
+        "Daging cincang",
+        "Jagung",
+        "Kacang pis",
+        "Lobak merah",
+        "Sos tomato",
+        "Bawang holland"
+      ],
+      "allergies": [
+        "Egg"
+      ]
+    },
+    "Maggi Ketam": {
+      "ingredients": [
+        "Mee segera (Maggi kari)",
+        "Ketam nipah/laut",
+        "Telur",
+        "Sawi",
+        "Cili padi"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten",
+        "Egg",
+        "MSG"
+      ]
+    },
+    "Manok Pansoh": {
+      "ingredients": [
+        "Ayam",
+        "Buluh (dimasak dalam buluh)",
+        "Daun ubi kayu",
+        "Serai",
+        "Bunga kantan",
+        "Halia",
+        "Bawang putih"
+      ],
+      "allergies": []
+    },
+    "Butter Chicken": {
+      "ingredients": [
+        "Ayam (goreng tepung)",
+        "Mentega",
+        "Susu cair",
+        "Daun kari",
+        "Cili padi",
+        "Gula"
+      ],
+      "allergies": [
+        "Dairy",
+        "Gluten"
+      ]
+    },
+    "Kam Heong Chicken": {
+      "ingredients": [
+        "Ayam",
+        "Udang kering",
+        "Serbuk kari",
+        "Daun kari",
+        "Kicap pekat",
+        "Sos tiram",
+        "Cili kering"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Lei Cha": {
+      "ingredients": [
+        "Nasi",
+        "Kuah teh (daun teh, pudina, selasih, kacang)",
+        "Kacang tanah",
+        "Tauhu",
+        "Sayur masin",
+        "Kacang panjang",
+        "Biji bijan"
+      ],
+      "allergies": [
+        "Peanuts",
+        "Soy",
+        "Sesame"
+      ]
+    },
+    "Nasi Itik": {
+      "ingredients": [
+        "Nasi (dimasak dengan lemak itik)",
+        "Itik panggang (Roasted Duck)",
+        "Sos plum",
+        "Kicap pekat",
+        "Timun",
+        "Sup herba"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Lontong Kering": {
+      "ingredients": [
+        "Nasi impit",
+        "Rendang daging",
+        "Sambal kacang",
+        "Sayur lodeh (kering)",
+        "Serunding kelapa",
+        "Telur rebus"
+      ],
+      "allergies": [
+        "Peanuts",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Nasi Goreng Tomyam": {
+      "ingredients": [
+        "Nasi putih",
+        "Pes tomyam",
+        "Udang/Sotong/Ayam",
+        "Serai",
+        "Daun limau purut",
+        "Cili padi",
+        "Sayur campur"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Soy"
+      ]
+    }
+  },
+  "dinner": {
+    "Nasi Tomato": {
+      "ingredients": [
+        "Beras",
+        "Sos tomato",
+        "Bawang putih",
+        "Bawang besar",
+        "Ghee",
+        "Santan"
+      ],
+      "allergies": [
+        "Dairy"
+      ]
+    },
+    "Ayam Masak Merah": {
+      "ingredients": [
+        "Ayam",
+        "Cili kisar",
+        "Sos tomato",
+        "Bawang besar",
+        "Bawang putih"
+      ],
+      "allergies": []
+    },
+    "Ikan Tiga Rasa": {
+      "ingredients": [
+        "Ikan siakap",
+        "Cili",
+        "Bawang besar",
+        "Nanas",
+        "Sos tomato",
+        "Sos cili",
+        "Cuka"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Butter Prawn": {
+      "ingredients": [
+        "Udang",
+        "Mentega",
+        "Susu cair",
+        "Cili padi",
+        "Daun kari"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Dairy"
+      ]
+    },
+    "Sambal Udang Petai": {
+      "ingredients": [
+        "Udang",
+        "Petai",
+        "Cili kisar",
+        "Bawang merah",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Daging Masak Merah": {
+      "ingredients": [
+        "Daging lembu",
+        "Cili kisar",
+        "Sos tomato",
+        "Bawang besar",
+        "Bawang putih",
+        "Kicap"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Kari Kambing": {
+      "ingredients": [
+        "Daging kambing",
+        "Serbuk kari",
+        "Santan",
+        "Tomato",
+        "Daun kari"
+      ],
+      "allergies": []
+    },
+    "Sup Daging": {
+      "ingredients": [
+        "Daging lembu",
+        "Halia",
+        "Bawang putih",
+        "Bawang besar",
+        "Lobak",
+        "Kentang",
+        "Daun sup"
+      ],
+      "allergies": []
+    },
+    "Tomyam Campur": {
+      "ingredients": [
+        "Udang",
+        "Sotong",
+        "Ayam",
+        "Cili padi",
+        "Serai",
+        "Daun limau purut",
+        "Tomyam paste",
+        "Limau nipis"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Kuey Teow Ladna": {
+      "ingredients": [
+        "Kuey teow",
+        "Ayam",
+        "Udang",
+        "Sayur campur",
+        "Telur",
+        "Sos tiram"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ]
+    },
+    "Mee Hailam": {
+      "ingredients": [
+        "Mee kuning",
+        "Ayam",
+        "Sayur campur",
+        "Kicap",
+        "Sos tiram",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ]
+    },
+    "Ayam Masak Kicap": {
+      "ingredients": [
+        "Ayam",
+        "Kicap masin",
+        "Kicap manis",
+        "Cili",
+        "Halia",
+        "Bawang"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Nasi Briyani": {
+      "ingredients": [
+        "Beras basmati",
+        "Rempah briyani",
+        "Ayam atau daging",
+        "Bawang goreng",
+        "Santan atau yogurt"
+      ],
+      "allergies": [
+        "Dairy"
+      ]
+    },
+    "Nasi Ulam": {
+      "ingredients": [
+        "Nasi putih",
+        "Serai",
+        "Daun kesum",
+        "Daun kunyit",
+        "Ikan bakar",
+        "Kelapa goreng"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Sayur Campur": {
+      "ingredients": [
+        "Kobis",
+        "Lobak merah",
+        "Jagung muda",
+        "Cili merah",
+        "Bawang putih"
+      ],
+      "allergies": []
+    },
+    "Siakap Stim Limau": {
+      "ingredients": [
+        "Ikan siakap",
+        "Limau nipis",
+        "Halia",
+        "Bawang putih",
+        "Cili"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Ikan Goreng Berlada": {
+      "ingredients": [
+        "Ikan kembung / merah",
+        "Cili kisar",
+        "Bawang merah",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Kailan Ikan Masin": {
+      "ingredients": [
+        "Sayur kailan",
+        "Ikan masin",
+        "Bawang putih",
+        "Cili"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Lala Masak Pedas": {
+      "ingredients": [
+        "Lala",
+        "Cili kisar",
+        "Daun limau purut",
+        "Bawang putih",
+        "Halia"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Telur Dadar": {
+      "ingredients": [
+        "Telur",
+        "Bawang",
+        "Cili",
+        "Garam"
+      ],
+      "allergies": [
+        "Egg"
+      ]
+    },
+    "Satay": {
+      "ingredients": [
+        "Daging ayam/lembu marinasi",
+        "Kuah kacang",
+        "Timun",
+        "Bawang merah",
+        "Nasi impit",
+        "Serai (untuk renjis)"
+      ],
+      "allergies": [
+        "Peanuts",
+        "Soy"
+      ]
+    },
+    "Ikan Bakar Portugis": {
+      "ingredients": [
+        "Ikan pari/siakap",
+        "Sambal Portugis (cili, bawang, serai, lengkuas)",
+        "Daun pisang",
+        "Aluminium foil",
+        "Limau kasturi"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Kari Kepala Ikan": {
+      "ingredients": [
+        "Kepala ikan (merah/kerapu)",
+        "Serbuk kari ikan",
+        "Santan",
+        "Bendi",
+        "Terung",
+        "Tomato",
+        "Halba campur"
+      ],
+      "allergies": [
+        "Fish",
+        "Mustard"
+      ]
+    },
+    "Ayam Goreng Kunyit": {
+      "ingredients": [
+        "Isi ayam (potong dadu)",
+        "Serbuk kunyit",
+        "Kacang panjang",
+        "Bawang besar",
+        "Cili merah",
+        "Minyak masak"
+      ],
+      "allergies": []
+    },
+    "Udang Masak Lemak Nenas": {
+      "ingredients": [
+        "Udang",
+        "Nanas",
+        "Santan",
+        "Cili padi",
+        "Kunyit hidup",
+        "Serai"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Daging Dendeng": {
+      "ingredients": [
+        "Daging lembu (tumbuk)",
+        "Kicap manis",
+        "Cili kering",
+        "Bawang goreng",
+        "Gula",
+        "Jintan"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Ayam Percik": {
+      "ingredients": [
+        "Ayam (panggang)",
+        "Santan pekat",
+        "Serai",
+        "Halia",
+        "Bawang merah",
+        "Asam keping",
+        "Gula"
+      ],
+      "allergies": []
+    },
+    "Kerabu Mangga": {
+      "ingredients": [
+        "Mangga muda (parut)",
+        "Udang kering",
+        "Kacang tanah tumbuk",
+        "Cili padi",
+        "Limau nipis",
+        "Bawang merah"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Peanuts"
+      ]
+    },
+    "Sup Ekor": {
+      "ingredients": [
+        "Ekor lembu",
+        "Rempah sup bunjut",
+        "Kentang",
+        "Lobak merah",
+        "Daun sup",
+        "Bawang goreng"
+      ],
+      "allergies": []
+    },
+    "Tomyam Putih": {
+      "ingredients": [
+        "Ayam/Seafood",
+        "Serai",
+        "Lengkuas",
+        "Daun limau purut",
+        "Cili padi (ketuk)",
+        "Cendawan",
+        "Air limau nipis"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Nasi Goreng Kampung": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Ikan bilis goreng",
+        "Kangkung",
+        "Cili padi (tumbuk)",
+        "Belacan",
+        "Bawang merah",
+        "Telur"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Mee Goreng Mamak": {
+      "ingredients": [
+        "Mee kuning",
+        "Tauhu",
+        "Cucur udang",
+        "Telur",
+        "Sawi",
+        "Sos cili/tomato",
+        "Kicap pekat",
+        "Kacang tanah (kuah)"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Peanuts"
+      ]
+    },
+    "Char Hor Fun": {
+      "ingredients": [
+        "Kuey teow lebar (goreng)",
+        "Bihun (campur)",
+        "Kuah telur (kanji)",
+        "Udang",
+        "Sotong",
+        "Sawi",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Egg",
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ]
+    },
+    "Claypot Tofu": {
+      "ingredients": [
+        "Tauhu telur (Egg tofu)",
+        "Daging kisar/Ayam",
+        "Cendawan shiitake",
+        "Lobak merah",
+        "Kacang pis",
+        "Sos tiram"
+      ],
+      "allergies": [
+        "Soy",
+        "Egg",
+        "Shellfish",
+        "Gluten"
+      ]
+    },
+    "Telur Bistik": {
+      "ingredients": [
+        "Telur dadar",
+        "Daging kisar/Ayam",
+        "Sos tomato",
+        "Kacang campur (mixed vege)",
+        "Bawang besar"
+      ],
+      "allergies": [
+        "Egg"
+      ]
+    },
+    "Ayam Lemon": {
+      "ingredients": [
+        "Isi ayam (goreng tepung)",
+        "Sos lemon (jus lemon, gula, kanji)",
+        "Bijan",
+        "Hirisan lemon"
+      ],
+      "allergies": [
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ]
+    },
+    "Nestum Prawns": {
+      "ingredients": [
+        "Udang (goreng)",
+        "Bijirin Nestum",
+        "Mentega",
+        "Cili padi",
+        "Daun kari",
+        "Gula"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ]
+    },
+    "Kam Heong Lala": {
+      "ingredients": [
+        "Lala (Retak seribu)",
+        "Serbuk kari",
+        "Udang kering",
+        "Daun kari",
+        "Cili kering",
+        "Kicap pekat"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Sotong Kangkung": {
+      "ingredients": [
+        "Sotong kembang",
+        "Kangkung celur",
+        "Sos manis/rojak",
+        "Kacang tanah tumbuk",
+        "Bijan"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Peanuts",
+        "Sesame",
+        "Soy"
+      ]
+    },
+    "Ketam Masak Lemak Cili Api": {
+      "ingredients": [
+        "Ketam nipah/bunga",
+        "Santan pekat",
+        "Cili padi (kisar)",
+        "Kunyit hidup",
+        "Serai",
+        "Asam keping"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Ikan Pari Bakar": {
+      "ingredients": [
+        "Ikan pari",
+        "Sambal (cili kisar, belacan, gula)",
+        "Daun pisang",
+        "Limau kasturi",
+        "Air asam (pencicah)"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish"
+      ]
+    },
+    "Siput Sedut Masak Lemak": {
+      "ingredients": [
+        "Siput sedut",
+        "Santan",
+        "Ubi keledek/keladi",
+        "Serai",
+        "Cili padi",
+        "Kunyit"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    },
+    "Daging Salai Masak Lemak": {
+      "ingredients": [
+        "Daging salai (asap)",
+        "Santan",
+        "Cili padi",
+        "Kunyit hidup",
+        "Belimbing buluh/Mangga muda",
+        "Serai"
+      ],
+      "allergies": []
+    },
+    "Ayam Pongteh": {
+      "ingredients": [
+        "Ayam",
+        "Taucu (bean paste)",
+        "Gula Melaka",
+        "Kentang",
+        "Cendawan kering",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Sambal Terung": {
+      "ingredients": [
+        "Terung panjang",
+        "Udang kering/Ikan bilis",
+        "Cili kisar",
+        "Bawang merah",
+        "Bawang putih"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Fish"
+      ]
+    },
+    "Kangkung Goreng Bawang Putih": {
+      "ingredients": [
+        "Kangkung",
+        "Bawang putih (banyak)",
+        "Sos tiram",
+        "Minyak masak",
+        "Cili merah (hiasan)"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Soy"
+      ]
+    },
+    "Sup Sayur": {
+      "ingredients": [
+        "Sawi",
+        "Lobak merah",
+        "Bebola ikan",
+        "Tauhu lembut",
+        "Kobis bunga",
+        "Bawang putih goreng"
+      ],
+      "allergies": [
+        "Fish",
+        "Soy"
+      ]
+    },
+    "Ikan Masam Manis": {
+      "ingredients": [
+        "Ikan (Siakap/Kerapu - goreng)",
+        "Sos tomato",
+        "Sos cili",
+        "Nanas",
+        "Timun",
+        "Bawang besar"
+      ],
+      "allergies": [
+        "Fish",
+        "Gluten"
+      ]
+    },
+    "Sotong Celup Tepung": {
+      "ingredients": [
+        "Sotong",
+        "Tepung beras/gandum",
+        "Telur",
+        "Serbuk kunyit",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Pajeri Nenas": {
+      "ingredients": [
+        "Nanas",
+        "Rempah kari daging",
+        "Santan",
+        "Kerisik",
+        "Gula merah",
+        "Udang kering (Dried shrimp)", 
+        "Bunga lawang/Kayu manis"
+      ],
+      "allergies": [
+        "Shellfish"
+      ]
+    }
+  },
+  "supper": {
+    "Maggi Goreng": {
+      "ingredients": [
+        "Mee segera",
+        "Telur",
+        "Cili",
+        "Kicap",
+        "Kubis",
+        "Tomato"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Roti John": {
+      "ingredients": [
+        "Roti panjang",
+        "Daging kisar / ayam cincang",
+        "Telur",
+        "Bawang",
+        "Sos cili",
+        "Mayonis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Satay": {
+      "ingredients": [
+        "Daging ayam / lembu",
+        "Serai",
+        "Kunyit",
+        "Halia",
+        "Bawang merah",
+        "Bawang putih",
+        "Kacang tanah (untuk kuah)",
+        "Cili kering"
+      ],
+      "allergies": [
+        "Peanuts"
+      ]
+    },
+    "Murtabak": {
+      "ingredients": [
+        "Doh roti canai",
+        "Daging cincang",
+        "Bawang",
+        "Telur",
+        "Rempah kari"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Sup Ekor": {
+      "ingredients": [
+        "Ekor lembu",
+        "Rempah sup",
+        "Halia",
+        "Bawang putih",
+        "Bawang besar",
+        "Lobak",
+        "Kentang"
+      ],
+      "allergies": []
+    },
+    "Sup Ayam": {
+      "ingredients": [
+        "Ayam",
+        "Halia",
+        "Bawang putih",
+        "Bawang merah",
+        "Lobak",
+        "Daun sup"
+      ],
+      "allergies": []
+    },
+    "Nasi Lemak Bungkus": {
+      "ingredients": [
+        "Nasi lemak",
+        "Ikan bilis",
+        "Kacang tanah",
+        "Timun",
+        "Sambal",
+        "Daun pisang"
+      ],
+      "allergies": [
+        "Fish",
+        "Peanuts",
+        "Shellfish"
+      ]
+    },
+    "Burger Ramly": {
+      "ingredients": [
+        "Roti burger",
+        "Daging burger Ramly",
+        "Telur",
+        "Bawang",
+        "Sos cili",
+        "Sos blackpepper",
+        "Mayonis",
+        "Salad"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Char Kuey Teow": {
+      "ingredients": [
+        "Kuey teow",
+        "Udang",
+        "Kerang",
+        "Bawang putih",
+        "Taugeh",
+        "Daun kucai",
+        "Kicap pekat"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ]
+    },
+    "Keropok Lekor": {
+      "ingredients": [
+        "Ikan",
+        "Tepung sagu",
+        "Garam",
+        "Air"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Apam Balik": {
+      "ingredients": [
+        "Tepung",
+        "Telur",
+        "Gula",
+        "Kacang tanah",
+        "Jagung manis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Peanuts"
+      ]
+    },
+    "Pisang Goreng": {
+      "ingredients": [
+        "Pisang",
+        "Tepung gandum",
+        "Garam",
+        "Air",
+        "Minyak"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Cucur Udang": {
+      "ingredients": [
+        "Tepung gandum",
+        "Udang kecil",
+        "Daun kucai",
+        "Garam",
+        "Air"
+      ],
+      "allergies": [
+        "Gluten",
+        "Shellfish"
+      ]
+    },
+    "Nasi Goreng Paprik": {
+      "ingredients": [
+        "Nasi putih",
+        "Ayam",
+        "Cili kisar",
+        "Sayur campur",
+        "Sos tiram"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten"
+      ]
+    },
+    "Popiah Basah": {
+      "ingredients": [
+        "Kulit popia (Wheat wrapper)",
+        "Sengkuang (Jicama)",
+        "Tahu",
+        "Telur hancur",
+        "Udang geragau/kering",
+        "Sos manis (Sweet sauce)",
+        "Bawang goreng"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Lempeng Kelapa": {
+      "ingredients": [
+        "Tepung gandum (Wheat flour)",
+        "Kelapa parut (Grated coconut)",
+        "Air",
+        "Garam",
+        "Sambal ikan bilis (pencicah)"
+      ],
+      "allergies": [
+        "Gluten",
+        "Tree Nuts (Coconut)",
+        "Shellfish",
+        "Fish"
+      ]
+    },
+    "Roti Sardin": {
+      "ingredients": [
+        "Roti putih",
+        "Sardin dalam tin",
+        "Bawang",
+        "Cili"
+      ],
+      "allergies": [
+        "Gluten",
+        "Fish"
+      ]
+    },
+    "Mee Sup": {
+      "ingredients": [
+        "Mee putih",
+        "Ayam atau daging",
+        "Bawang putih",
+        "Halia",
+        "Sup ayam",
+        "Daun sup"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Nasi Goreng Kampung": {
+      "ingredients": [
+        "Nasi sejuk",
+        "Ikan bilis goreng",
+        "Kangkung",
+        "Cili padi (tumbuk)",
+        "Belacan",
+        "Bawang merah",
+        "Telur"
+      ],
+      "allergies": [
+        "Fish",
+        "Egg",
+        "Shellfish"
+      ]
+    },
+    "Mee Goreng Mamak": {
+      "ingredients": [
+        "Mee kuning",
+        "Tauhu",
+        "Telur",
+        "Kubis",
+        "Taugeh",
+        "Cili kisar",
+        "Kicap",
+        "Limau"
+      ],
+      "allergies": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Roti Canai": {
+      "ingredients": [
+        "Tepung gandum",
+        "Ghee/Marjerin",
+        "Susu pekat",
+        "Garam",
+        "Kuah dhal/kari"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Roti Telur": {
+      "ingredients": [
+        "Doh roti canai",
+        "Telur",
+        "Bawang",
+        "Cili hijau",
+        "Kuah dhal/kari"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ]
+    },
+    "Roti Tisu": {
+      "ingredients": [
+        "Doh roti canai (nipis)",
+        "Gula",
+        "Susu pekat",
+        "Marjerin"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Thosai": {
+      "ingredients": [
+        "Beras (fermentasi)",
+        "Kacang dhal (urad dal)",
+        "Halba",
+        "Chutney kelapa",
+        "Kuah dhal"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)",
+        "Mustard"
+      ]
+    },
+    "Naan Cheese": {
+      "ingredients": [
+        "Tepung gandum",
+        "Yogurt",
+        "Yis",
+        "Keju mozzarella/cheddar"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Ayam Tandoori": {
+      "ingredients": [
+        "Ayam",
+        "Yogurt",
+        "Rempah tandoori",
+        "Pewarna merah",
+        "Lemon"
+      ],
+      "allergies": [
+        "Dairy"
+      ]
+    },
+    "Yong Tau Foo": {
+      "ingredients": [
+        "Bebola ikan",
+        "Terung/Bendi isi ikan",
+        "Fucuk goreng",
+        "Sos manis (Hoisin)",
+        "Sos cili"
+      ],
+      "allergies": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Chee Cheong Fun": {
+      "ingredients": [
+        "Tepung beras (Rice rolls)",
+        "Sos udang (Otak udang)",
+        "Bijan",
+        "Sos cili",
+        "Kicap manis"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    "Lok-lok": {
+      "ingredients": [
+        "Bebola ikan/sotong",
+        "Sosej",
+        "Kangkung",
+        "Udang",
+        "Kuah kacang/cili"
+      ],
+      "allergies": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Peanuts"
+      ]
+    },
+    "Otak-otak": {
+      "ingredients": [
+        "Isi ikan",
+        "Santan",
+        "Cili kisar",
+        "Daun kaduk",
+        "Daun pisang/kelapa"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Bubur Ayam": {
+      "ingredients": [
+        "Beras",
+        "Ayam carik",
+        "Halia",
+        "Minyak bijan",
+        "Bawang goreng",
+        "Daun bawang"
+      ],
+      "allergies": [
+        "Sesame",
+        "Soy"
+      ]
+    },
+    "Roti Jala": {
+      "ingredients": [
+        "Tepung gandum",
+        "Telur",
+        "Santan",
+        "Kunyit",
+        "Kuah kari ayam"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg"
+      ]
+    },
+    "Cempedak Goreng": {
+      "ingredients": [
+        "Buah cempedak",
+        "Tepung beras",
+        "Tepung gandum",
+        "Minyak masak"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Rojak Buah": {
+      "ingredients": [
+        "Sengkuang",
+        "Nanas",
+        "Timun",
+        "Mangga muda",
+        "Kuah rojak (udang)",
+        "Kacang tanah tumbuk"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Peanuts"
+      ]
+    },
+    "Pasembur (Rojak Mamak)": {
+      "ingredients": [
+        "Cucur udang",
+        "Tauhu goreng",
+        "Telur rebus",
+        "Sengkuang",
+        "Timun",
+        "Kuah kacang pedas manis"
+      ],
+      "allergies": [
+        "Peanuts",
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ]
+    },
+    "Tau Fu Fah": {
+      "ingredients": [
+        "Tauhu lembut (Soybean curd)",
+        "Air gula (putih atau merah)",
+        "Halia (pilihan)"
+      ],
+      "allergies": [
+        "Soy"
+      ]
+    },
+    "Bubur Cha Cha": {
+      "ingredients": [
+        "Ubi keledek (oren/ungu)",
+        "Keladi",
+        "Tepung sagu (cha cha)",
+        "Santan",
+        "Gula Melaka",
+        "Daun pandan"
+      ],
+      "allergies": [
+        "Tree Nuts"
+      ]
+    },
+    "ABC (Air Batu Campur)": {
+      "ingredients": [
+        "Ais kisar",
+        "Sirap ros",
+        "Susu cair",
+        "Kacang merah",
+        "Jagung manis",
+        "Cincau"
+      ],
+      "allergies": [
+        "Dairy"
+      ]
+    },
+    "Cendol": {
+      "ingredients": [
+        "Jeli cendol (tepung beras & pandan)",
+        "Santan",
+        "Gula Melaka",
+        "Ais kisar",
+        "Kacang merah (pilihan)"
+      ],
+      "allergies": []
+    },
+    "Roti Bom": {
+      "ingredients": [
+        "Doh roti canai (tebal)",
+        "Gula pasir",
+        "Marjerin/Planta",
+        "Susu pekat manis"
+      ],
+      "allergies": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    "Putu Mayam": {
+      "ingredients": [
+        "Tepung beras (Rice flour)",
+        "Santan",
+        "Kelapa parut",
+        "Gula merah/Gula Melaka"
+      ],
+      "allergies": [
+        "Tree Nuts (Coconut)"
+      ]
+    },
+    "Tauhu Bakar": {
+      "ingredients": [
+        "Tauhu kempis (Tofu puffs)",
+        "Timun",
+        "Sengkuang",
+        "Kuah rojak (Petis/Otak udang)",
+        "Kacang tanah",
+        "Sos cili"
+      ],
+      "allergies": [
+        "Soy",
+        "Peanuts",
+        "Shellfish"
+      ]
+    },
+    "Roti Bakar": {
+      "ingredients": [
+        "Roti Hainan/putih",
+        "Serikaya (telur, santan, gula)",
+        "Mentega"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ]
+    },
+    "Telur Separuh Masak": {
+      "ingredients": [
+        "Telur",
+        "Kicap cair",
+        "Lada putih"
+      ],
+      "allergies": [
+        "Egg",
+        "Soy"
+      ]
+    },
+    "Putu Piring": {
+      "ingredients": [
+        "Tepung beras",
+        "Gula Melaka",
+        "Kelapa parut",
+        "Daun pandan (alas)"
+      ],
+      "allergies": []
+    },
+    "Dim Sum": {
+      "ingredients": [
+        "Isi udang/ayam",
+        "Kulit wantan",
+        "Cendawan",
+        "Minyak bijan"
+      ],
+      "allergies": [
+        "Shellfish",
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ]
+    },
+    "Wantan Mee": {
+      "ingredients": [
+        "Mee telur",
+        "Kicap pekat",
+        "Minyak bawang",
+        "Sayur sawi",
+        "Wantan goreng/rebus"
+      ],
+      "allergies": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Shellfish"
+      ]
+    },
+    "Bakso": {
+      "ingredients": [
+        "Bebola daging",
+        "Bihun/Suun",
+        "Sup daging",
+        "Bawang goreng",
+        "Sos cili pedas"
+      ],
+      "allergies": [
+        "Gluten"
+      ]
+    },
+    "Ubi Kayu Rebus": {
+      "ingredients": [
+        "Ubi kayu",
+        "Kelapa parut",
+        "Gula",
+        "Sambal ikan bilis (pilihan)"
+      ],
+      "allergies": [
+        "Fish"
+      ]
+    },
+    "Vadai": {
+      "ingredients": [
+        "Kacang dhal (rendam & kisar)",
+        "Cili kering",
+        "Bawang",
+        "Daun kari",
+        "Jintan"
+      ],
+      "allergies": [
+        "Peanuts"
+      ]
+    }
+  }
+}

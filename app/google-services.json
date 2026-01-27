@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492882408355",
+    "firebase_url": "https://planprep-56ef7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "planprep-56ef7",
+    "storage_bucket": "planprep-56ef7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492882408355:android:ad782f5f644b4d8195a016",
+        "android_client_info": {
+          "package_name": "com.example.planprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492882408355-2ba7uieocttv16g9h1bgoueepq4pteit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planprep",
+            "certificate_hash": "b8f1d4501a8fa44dce0c52851dc6f8a41271289b"
+          }
+        },
+        {
+          "client_id": "492882408355-qt1ioqbdbdv7qelrd3o7597blqs8gf1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmYr-LRPTjM9cqbR30mkeWgxJq4o28lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492882408355-qt1ioqbdbdv7qelrd3o7597blqs8gf1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
