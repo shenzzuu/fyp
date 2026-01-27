@@ -49,7 +49,7 @@ To protect sensitive data, API keys are managed through `local.properties` and a
 
 ## 👨‍💻 Author
 
-**Muhammad Hafiz Bin Mohd Rafi**
-Supervised by Sir Muhammad Nabil Fikri Bin Jamaluddin.
-Bachelor of Information Technology (Hons.)
-Faculty of Computer and Mathematical Sciences, UiTM.
+* **Muhammad Hafiz Bin Mohd Rafi**
+* Supervised by Sir Muhammad Nabil Fikri Bin Jamaluddin.
+* Bachelor of Information Technology (Hons.)
+* Faculty of Computer and Mathematical Sciences, UiTM.
