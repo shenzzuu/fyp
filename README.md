@@ -22,7 +22,7 @@ Developed as a **Final Year Project** for the Bachelor of Information Technology
     * **ImgBB API**: For efficient image handling and visualization.
     * **Google Maps Scraper API**: For location-based features.
 
-📱 Compatibility
+## 📱 Compatibility
 
 * Developed and tested on Android 13 (API Level 33).
 * Minimum SDK: Android 8.0 (API Level 26).
